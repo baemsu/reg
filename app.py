@@ -6,6 +6,11 @@ import joblib
 import pandas as pd
 
 # st를 이용하여 타이틀과 입력 방법을 명시한다.
+
+st.title('파이팅!!!! 사랑합니다!!!')
+st.title(' ')
+st.title(' ')
+
 st.title('차량 속도에 따른 납부보험료 예측서비스')
 st.subheader('(1) 아래에 당신 차의 평균 속도를 입력해주세요!!!')
 
